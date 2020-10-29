@@ -21,6 +21,8 @@ export default createStore({
             state.dones.push(item)
         }
     },
-    actions: {},
+    actions: {
+        
+    },
     modules: {}
 })
